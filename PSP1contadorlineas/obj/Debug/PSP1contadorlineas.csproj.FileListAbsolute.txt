@@ -1,0 +1,30 @@
+C:\Users\carlos12\source\repos\PSP1contadorlineas\PSP1contadorlineas\bin\Debug\PSP1contadorlineas.exe.config
+C:\Users\carlos12\source\repos\PSP1contadorlineas\PSP1contadorlineas\bin\Debug\PSP1contadorlineas.exe
+C:\Users\carlos12\source\repos\PSP1contadorlineas\PSP1contadorlineas\bin\Debug\PSP1contadorlineas.pdb
+C:\Users\carlos12\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.csprojAssemblyReference.cache
+C:\Users\carlos12\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.Form1.resources
+C:\Users\carlos12\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.Properties.Resources.resources
+C:\Users\carlos12\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.csproj.GenerateResource.cache
+C:\Users\carlos12\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.csproj.CoreCompileInputs.cache
+C:\Users\carlos12\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.exe
+C:\Users\carlos12\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.pdb
+C:\Users\Noe Villegas\source\repos\PSP1contadorlineas\PSP1contadorlineas\bin\Debug\PSP1contadorlineas.exe.config
+C:\Users\Noe Villegas\source\repos\PSP1contadorlineas\PSP1contadorlineas\bin\Debug\PSP1contadorlineas.exe
+C:\Users\Noe Villegas\source\repos\PSP1contadorlineas\PSP1contadorlineas\bin\Debug\PSP1contadorlineas.pdb
+C:\Users\Noe Villegas\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.csprojAssemblyReference.cache
+C:\Users\Noe Villegas\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.Form1.resources
+C:\Users\Noe Villegas\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.Properties.Resources.resources
+C:\Users\Noe Villegas\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.csproj.GenerateResource.cache
+C:\Users\Noe Villegas\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.csproj.CoreCompileInputs.cache
+C:\Users\Noe Villegas\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.exe
+C:\Users\Noe Villegas\source\repos\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.pdb
+C:\Users\Juan\Desktop\PSP1contadorlineas\PSP1contadorlineas\bin\Debug\PSP1contadorlineas.exe.config
+C:\Users\Juan\Desktop\PSP1contadorlineas\PSP1contadorlineas\bin\Debug\PSP1contadorlineas.exe
+C:\Users\Juan\Desktop\PSP1contadorlineas\PSP1contadorlineas\bin\Debug\PSP1contadorlineas.pdb
+C:\Users\Juan\Desktop\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.Form1.resources
+C:\Users\Juan\Desktop\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.Properties.Resources.resources
+C:\Users\Juan\Desktop\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.exe
+C:\Users\Juan\Desktop\PSP1contadorlineas\PSP1contadorlineas\obj\Debug\PSP1contadorlineas.pdb
